@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.batch.job.repository.Member">
+
+    <select id="selectMemberById" resultType="member">
+        SELECT ID
+              ,NAME
+              ,COUNTRY
+              ,POPULATION
+              ,AMOUNT
+          FROM MEMBER
+         WHERE ID = #{id}
+         ORDER BY ID
+    </select>
+
+    <select id="selectAllMember" resultType="member">
+        SELECT ID
+              ,NAME
+              ,COUNTRY
+              ,POPULATION
+              ,AMOUNT
+          FROM MEMBER
+         ORDER BY ID
+    </select>
+    
+    <select id="selectAllMemberMap" resultType="hashmap">
+        SELECT ID
+              ,NAME
+              ,COUNTRY
+              ,POPULATION
+              ,AMOUNT
+          FROM MEMBER
+         ORDER BY ID
+    </select>
+
+    <insert id="insertMember">
+      INSERT INTO MEMBER (NAME, COUNTRY, POPULATION, AMOUNT)
+      VALUES (#{name}, #{country}, #{population}, #{amount})
+    </insert>
+
+</mapper>
