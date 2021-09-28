@@ -1,0 +1,529 @@
+[BATCH_INFO]22:52:59.007 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Starting SpringBootBatchApplication using Java 1.8.0_92 on DESKTOP-E8BB6D8 with PID 8908 (C:\Users\kjc\git\javawork\SpringBootBatch\target\classes started by kjc in C:\Users\kjc\git\javawork\SpringBootBatch)
+[BATCH_INFO]22:52:59.028 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - No active profile set, falling back to default profiles: default
+[BATCH_INFO]22:52:59.673 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Starting...
+[BATCH_INFO]22:52:59.750 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Start completed.
+[BATCH_INFO]22:52:59.909 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.32.Final
+[BATCH_INFO]22:53:00.008 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[BATCH_INFO]22:53:00.107 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[BATCH_INFO]22:53:00.291 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[BATCH_INFO]22:53:00.306 [restartedMain] INFO  o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl - HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+[BATCH_INFO]22:53:00.530 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown initiated...
+[BATCH_INFO]22:53:00.531 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown completed.
+[BATCH_INFO]22:53:31.959 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Starting SpringBootBatchApplication using Java 1.8.0_92 on DESKTOP-E8BB6D8 with PID 10576 (C:\Users\kjc\git\javawork\SpringBootBatch\target\classes started by kjc in C:\Users\kjc\git\javawork\SpringBootBatch)
+[BATCH_INFO]22:53:31.961 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - No active profile set, falling back to default profiles: default
+[BATCH_INFO]22:53:32.712 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Starting...
+[BATCH_INFO]22:53:32.792 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Start completed.
+[BATCH_INFO]22:53:32.946 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.32.Final
+[BATCH_INFO]22:53:33.044 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[BATCH_INFO]22:53:33.136 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[BATCH_INFO]22:53:33.293 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[BATCH_INFO]22:53:33.368 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorJob START ========================================>>
+[BATCH_INFO]22:53:33.381 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Job START ========================================>>
+[BATCH_INFO]22:53:33.384 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterJob START ========================================>>
+[BATCH_INFO]22:53:33.397 [restartedMain] INFO  c.k.b.j.c.ChunkCustomWriterJobConfig - ChunkCustomWriterReader START ========================================>>
+[BATCH_INFO]22:53:33.425 [restartedMain] INFO  c.k.b.j.config.ChunkMyBatisJobConfig - ChunkMyBatisJob START ========================================>>
+[BATCH_INFO]22:53:33.427 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseJob START ========================================>>
+[BATCH_INFO]22:53:33.495 [restartedMain] INFO  o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl - HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+[BATCH_INFO]22:53:33.714 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown initiated...
+[BATCH_INFO]22:53:33.715 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown completed.
+[BATCH_INFO]22:54:05.251 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Starting SpringBootBatchApplication using Java 1.8.0_92 on DESKTOP-E8BB6D8 with PID 24932 (C:\Users\kjc\git\javawork\SpringBootBatch\target\classes started by kjc in C:\Users\kjc\git\javawork\SpringBootBatch)
+[BATCH_INFO]22:54:05.253 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - No active profile set, falling back to default profiles: default
+[BATCH_INFO]22:54:06.002 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Starting...
+[BATCH_INFO]22:54:06.082 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Start completed.
+[BATCH_INFO]22:54:06.237 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.32.Final
+[BATCH_INFO]22:54:06.338 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[BATCH_INFO]22:54:06.431 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[BATCH_INFO]22:54:06.587 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[BATCH_INFO]22:54:06.661 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorJob START ========================================>>
+[BATCH_INFO]22:54:06.674 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Job START ========================================>>
+[BATCH_INFO]22:54:06.676 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterJob START ========================================>>
+[BATCH_INFO]22:54:06.689 [restartedMain] INFO  c.k.b.j.c.ChunkCustomWriterJobConfig - ChunkCustomWriterReader START ========================================>>
+[BATCH_INFO]22:54:06.717 [restartedMain] INFO  c.k.b.j.config.ChunkMyBatisJobConfig - ChunkMyBatisJob START ========================================>>
+[BATCH_INFO]22:54:06.719 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseJob START ========================================>>
+[BATCH_INFO]22:54:06.785 [restartedMain] INFO  o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl - HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+[BATCH_INFO]22:54:07.003 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown initiated...
+[BATCH_INFO]22:54:07.004 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown completed.
+[BATCH_INFO]22:54:35.843 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Starting SpringBootBatchApplication using Java 1.8.0_92 on DESKTOP-E8BB6D8 with PID 23060 (C:\Users\kjc\git\javawork\SpringBootBatch\target\classes started by kjc in C:\Users\kjc\git\javawork\SpringBootBatch)
+[BATCH_INFO]22:54:35.845 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - No active profile set, falling back to default profiles: default
+[BATCH_INFO]22:54:36.601 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Starting...
+[BATCH_INFO]22:54:36.679 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Start completed.
+[BATCH_INFO]22:54:36.832 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.32.Final
+[BATCH_INFO]22:54:36.930 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[BATCH_INFO]22:54:37.022 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[BATCH_INFO]22:54:37.202 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[BATCH_INFO]22:54:37.324 [restartedMain] INFO  o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl - HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+[BATCH_INFO]22:54:37.540 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown initiated...
+[BATCH_INFO]22:54:37.541 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown completed.
+[BATCH_INFO]22:55:53.701 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Starting SpringBootBatchApplication using Java 1.8.0_92 on DESKTOP-E8BB6D8 with PID 27756 (C:\Users\kjc\git\javawork\SpringBootBatch\target\classes started by kjc in C:\Users\kjc\git\javawork\SpringBootBatch)
+[BATCH_INFO]22:55:53.703 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - No active profile set, falling back to default profiles: default
+[BATCH_INFO]22:55:54.460 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Starting...
+[BATCH_INFO]22:55:54.540 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Start completed.
+[BATCH_INFO]22:55:54.700 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.32.Final
+[BATCH_INFO]22:55:54.799 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[BATCH_INFO]22:55:54.895 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[BATCH_INFO]22:55:55.053 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[BATCH_INFO]22:55:55.188 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorJob START ========================================>>
+[BATCH_INFO]22:55:55.202 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Job START ========================================>>
+[BATCH_INFO]22:55:55.204 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterJob START ========================================>>
+[BATCH_INFO]22:55:55.218 [restartedMain] INFO  c.k.b.j.c.ChunkCustomWriterJobConfig - ChunkCustomWriterReader START ========================================>>
+[BATCH_INFO]22:55:55.245 [restartedMain] INFO  c.k.b.j.config.ChunkMyBatisJobConfig - ChunkMyBatisJob START ========================================>>
+[BATCH_INFO]22:55:55.247 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseJob START ========================================>>
+[BATCH_INFO]22:55:55.287 [restartedMain] INFO  o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl - HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+[BATCH_INFO]22:55:55.509 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown initiated...
+[BATCH_INFO]22:55:55.510 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown completed.
+[BATCH_INFO]22:57:06.684 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Starting SpringBootBatchApplication using Java 1.8.0_92 on DESKTOP-E8BB6D8 with PID 3956 (C:\Users\kjc\git\javawork\SpringBootBatch\target\classes started by kjc in C:\Users\kjc\git\javawork\SpringBootBatch)
+[BATCH_INFO]22:57:06.686 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - No active profile set, falling back to default profiles: default
+[BATCH_INFO]22:57:07.441 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Starting...
+[BATCH_INFO]22:57:07.519 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Start completed.
+[BATCH_INFO]22:57:07.675 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.32.Final
+[BATCH_INFO]22:57:07.776 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[BATCH_INFO]22:57:07.869 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[BATCH_INFO]22:57:08.024 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[BATCH_INFO]22:57:08.163 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorJob START ========================================>>
+[BATCH_INFO]22:57:08.176 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Job START ========================================>>
+[BATCH_INFO]22:57:08.178 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterJob START ========================================>>
+[BATCH_INFO]22:57:08.191 [restartedMain] INFO  c.k.b.j.c.ChunkCustomWriterJobConfig - ChunkCustomWriterReader START ========================================>>
+[BATCH_INFO]22:57:08.218 [restartedMain] INFO  c.k.b.j.config.ChunkMyBatisJobConfig - ChunkMyBatisJob START ========================================>>
+[BATCH_INFO]22:57:08.220 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseJob START ========================================>>
+[BATCH_INFO]22:57:08.276 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor START ========================================>>
+[BATCH_INFO]22:57:08.277 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor1 START ========================================>>
+[BATCH_INFO]22:57:08.277 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor2 START ========================================>>
+[BATCH_INFO]22:57:08.277 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorWriter START ========================================>>
+[BATCH_INFO]22:57:08.278 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor START ========================================>>
+[BATCH_INFO]22:57:08.278 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor1 START ========================================>>
+[BATCH_INFO]22:57:08.278 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor2 START ========================================>>
+[BATCH_INFO]22:57:08.279 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterWriter START ========================================>>
+[BATCH_INFO]22:57:08.288 [restartedMain] INFO  c.k.b.j.config.ChunkFilterJobConfig - ChunkFilterReader START ========================================>>
+[BATCH_INFO]22:57:08.485 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Started SpringBootBatchApplication in 2.085 seconds (JVM running for 2.729)
+[BATCH_INFO]22:57:08.578 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseStep START ========================================>>
+[BATCH_INFO]22:57:08.590 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseReader START ========================================>>
+[BATCH_INFO]22:57:08.619 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]22:57:08.619 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=10000, COUNTRY=KR, AMOUNT=5000000, ID=1, NAME=김진철}
+[BATCH_INFO]22:57:08.631 [SpringContextShutdownHook] INFO  o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl - HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+[BATCH_INFO]22:57:08.636 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown initiated...
+[BATCH_INFO]22:57:08.637 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown completed.
+[BATCH_INFO]23:04:10.623 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Starting SpringBootBatchApplication using Java 1.8.0_92 on DESKTOP-E8BB6D8 with PID 16592 (C:\Users\kjc\git\javawork\SpringBootBatch\target\classes started by kjc in C:\Users\kjc\git\javawork\SpringBootBatch)
+[BATCH_INFO]23:04:10.626 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - No active profile set, falling back to default profiles: default
+[BATCH_INFO]23:04:11.402 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Starting...
+[BATCH_INFO]23:04:11.481 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Start completed.
+[BATCH_INFO]23:04:11.643 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.32.Final
+[BATCH_INFO]23:04:11.747 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[BATCH_INFO]23:04:11.839 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[BATCH_INFO]23:04:12.019 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[BATCH_INFO]23:04:12.159 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorJob START ========================================>>
+[BATCH_INFO]23:04:12.173 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Job START ========================================>>
+[BATCH_INFO]23:04:12.176 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterJob START ========================================>>
+[BATCH_INFO]23:04:12.189 [restartedMain] INFO  c.k.b.j.c.ChunkCustomWriterJobConfig - ChunkCustomWriterReader START ========================================>>
+[BATCH_INFO]23:04:12.216 [restartedMain] INFO  c.k.b.j.config.ChunkMyBatisJobConfig - ChunkMyBatisJob START ========================================>>
+[BATCH_INFO]23:04:12.218 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseJob START ========================================>>
+[BATCH_INFO]23:04:12.274 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor START ========================================>>
+[BATCH_INFO]23:04:12.274 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor1 START ========================================>>
+[BATCH_INFO]23:04:12.274 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor2 START ========================================>>
+[BATCH_INFO]23:04:12.275 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorWriter START ========================================>>
+[BATCH_INFO]23:04:12.275 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor START ========================================>>
+[BATCH_INFO]23:04:12.275 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor1 START ========================================>>
+[BATCH_INFO]23:04:12.276 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor2 START ========================================>>
+[BATCH_INFO]23:04:12.277 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterWriter START ========================================>>
+[BATCH_INFO]23:04:12.286 [restartedMain] INFO  c.k.b.j.config.ChunkFilterJobConfig - ChunkFilterReader START ========================================>>
+[BATCH_INFO]23:04:12.484 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Started SpringBootBatchApplication in 2.154 seconds (JVM running for 2.805)
+[BATCH_INFO]23:04:12.578 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseStep START ========================================>>
+[BATCH_INFO]23:04:12.590 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseReader START ========================================>>
+[BATCH_INFO]23:04:12.620 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]23:04:12.620 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=10000, COUNTRY=KR, AMOUNT=5000000, ID=1, NAME=김진철}
+[BATCH_INFO]23:04:12.631 [SpringContextShutdownHook] INFO  o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl - HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+[BATCH_INFO]23:04:12.636 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown initiated...
+[BATCH_INFO]23:04:12.637 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown completed.
+[BATCH_INFO]23:05:50.245 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Starting SpringBootBatchApplication using Java 1.8.0_92 on DESKTOP-E8BB6D8 with PID 22500 (C:\Users\kjc\git\javawork\SpringBootBatch\target\classes started by kjc in C:\Users\kjc\git\javawork\SpringBootBatch)
+[BATCH_INFO]23:05:50.247 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - No active profile set, falling back to default profiles: default
+[BATCH_INFO]23:05:51.014 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Starting...
+[BATCH_INFO]23:05:51.093 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Start completed.
+[BATCH_INFO]23:05:51.245 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.32.Final
+[BATCH_INFO]23:05:51.347 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[BATCH_INFO]23:05:51.443 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[BATCH_INFO]23:05:51.601 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[BATCH_INFO]23:05:51.742 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorJob START ========================================>>
+[BATCH_INFO]23:05:51.755 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Job START ========================================>>
+[BATCH_INFO]23:05:51.757 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterJob START ========================================>>
+[BATCH_INFO]23:05:51.771 [restartedMain] INFO  c.k.b.j.c.ChunkCustomWriterJobConfig - ChunkCustomWriterReader START ========================================>>
+[BATCH_INFO]23:05:51.798 [restartedMain] INFO  c.k.b.j.config.ChunkMyBatisJobConfig - ChunkMyBatisJob START ========================================>>
+[BATCH_INFO]23:05:51.799 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseJob START ========================================>>
+[BATCH_INFO]23:05:51.855 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor START ========================================>>
+[BATCH_INFO]23:05:51.856 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor1 START ========================================>>
+[BATCH_INFO]23:05:51.856 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor2 START ========================================>>
+[BATCH_INFO]23:05:51.856 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorWriter START ========================================>>
+[BATCH_INFO]23:05:51.857 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor START ========================================>>
+[BATCH_INFO]23:05:51.857 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor1 START ========================================>>
+[BATCH_INFO]23:05:51.857 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor2 START ========================================>>
+[BATCH_INFO]23:05:51.859 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterWriter START ========================================>>
+[BATCH_INFO]23:05:51.867 [restartedMain] INFO  c.k.b.j.config.ChunkFilterJobConfig - ChunkFilterReader START ========================================>>
+[BATCH_INFO]23:05:52.064 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Started SpringBootBatchApplication in 2.103 seconds (JVM running for 2.75)
+[BATCH_INFO]23:05:52.156 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseStep START ========================================>>
+[BATCH_INFO]23:05:52.168 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseReader START ========================================>>
+[BATCH_INFO]23:05:52.198 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]23:05:52.198 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=10000, COUNTRY=KR, AMOUNT=5000000, ID=1, NAME=김진철}
+[BATCH_INFO]23:05:52.209 [SpringContextShutdownHook] INFO  o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl - HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+[BATCH_INFO]23:05:52.213 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown initiated...
+[BATCH_INFO]23:05:52.214 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown completed.
+[BATCH_INFO]23:08:50.834 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Starting SpringBootBatchApplication using Java 1.8.0_92 on DESKTOP-E8BB6D8 with PID 25912 (C:\Users\kjc\git\javawork\SpringBootBatch\target\classes started by kjc in C:\Users\kjc\git\javawork\SpringBootBatch)
+[BATCH_INFO]23:08:50.836 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - No active profile set, falling back to default profiles: default
+[BATCH_INFO]23:08:51.616 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Starting...
+[BATCH_INFO]23:08:51.694 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Start completed.
+[BATCH_INFO]23:08:51.850 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.32.Final
+[BATCH_INFO]23:08:51.956 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[BATCH_INFO]23:08:52.050 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[BATCH_INFO]23:08:52.235 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[BATCH_INFO]23:08:52.377 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorJob START ========================================>>
+[BATCH_INFO]23:08:52.389 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Job START ========================================>>
+[BATCH_INFO]23:08:52.392 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterJob START ========================================>>
+[BATCH_INFO]23:08:52.405 [restartedMain] INFO  c.k.b.j.c.ChunkCustomWriterJobConfig - ChunkCustomWriterReader START ========================================>>
+[BATCH_INFO]23:08:52.433 [restartedMain] INFO  c.k.b.j.config.ChunkMyBatisJobConfig - ChunkMyBatisJob START ========================================>>
+[BATCH_INFO]23:08:52.436 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseJob START ========================================>>
+[BATCH_INFO]23:08:52.492 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor START ========================================>>
+[BATCH_INFO]23:08:52.492 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor1 START ========================================>>
+[BATCH_INFO]23:08:52.492 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor2 START ========================================>>
+[BATCH_INFO]23:08:52.492 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorWriter START ========================================>>
+[BATCH_INFO]23:08:52.493 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor START ========================================>>
+[BATCH_INFO]23:08:52.493 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor1 START ========================================>>
+[BATCH_INFO]23:08:52.493 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor2 START ========================================>>
+[BATCH_INFO]23:08:52.495 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterWriter START ========================================>>
+[BATCH_INFO]23:08:52.504 [restartedMain] INFO  c.k.b.j.config.ChunkFilterJobConfig - ChunkFilterReader START ========================================>>
+[BATCH_INFO]23:08:52.704 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Started SpringBootBatchApplication in 2.159 seconds (JVM running for 2.802)
+[BATCH_INFO]23:08:52.798 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseStep START ========================================>>
+[BATCH_INFO]23:08:52.810 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseReader START ========================================>>
+[BATCH_INFO]23:08:52.841 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]23:08:52.842 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=10000, COUNTRY=KR, AMOUNT=5000000, ID=1, NAME=김진철}
+[BATCH_INFO]23:08:52.852 [SpringContextShutdownHook] INFO  o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl - HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+[BATCH_INFO]23:08:52.857 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown initiated...
+[BATCH_INFO]23:08:52.858 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown completed.
+[BATCH_INFO]23:09:45.048 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Starting SpringBootBatchApplication using Java 1.8.0_92 on DESKTOP-E8BB6D8 with PID 30676 (C:\Users\kjc\git\javawork\SpringBootBatch\target\classes started by kjc in C:\Users\kjc\git\javawork\SpringBootBatch)
+[BATCH_INFO]23:09:45.050 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - No active profile set, falling back to default profiles: default
+[BATCH_INFO]23:09:45.813 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Starting...
+[BATCH_INFO]23:09:45.894 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Start completed.
+[BATCH_INFO]23:09:46.046 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.32.Final
+[BATCH_INFO]23:09:46.145 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[BATCH_INFO]23:09:46.238 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[BATCH_INFO]23:09:46.391 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[BATCH_INFO]23:09:46.536 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorJob START ========================================>>
+[BATCH_INFO]23:09:46.550 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Job START ========================================>>
+[BATCH_INFO]23:09:46.552 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterJob START ========================================>>
+[BATCH_INFO]23:09:46.566 [restartedMain] INFO  c.k.b.j.c.ChunkCustomWriterJobConfig - ChunkCustomWriterReader START ========================================>>
+[BATCH_INFO]23:09:46.592 [restartedMain] INFO  c.k.b.j.config.ChunkMyBatisJobConfig - ChunkMyBatisJob START ========================================>>
+[BATCH_INFO]23:09:46.595 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseJob START ========================================>>
+[BATCH_INFO]23:09:46.651 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor START ========================================>>
+[BATCH_INFO]23:09:46.651 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor1 START ========================================>>
+[BATCH_INFO]23:09:46.651 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor2 START ========================================>>
+[BATCH_INFO]23:09:46.651 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorWriter START ========================================>>
+[BATCH_INFO]23:09:46.652 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor START ========================================>>
+[BATCH_INFO]23:09:46.652 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor1 START ========================================>>
+[BATCH_INFO]23:09:46.652 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor2 START ========================================>>
+[BATCH_INFO]23:09:46.654 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterWriter START ========================================>>
+[BATCH_INFO]23:09:46.662 [restartedMain] INFO  c.k.b.j.config.ChunkFilterJobConfig - ChunkFilterReader START ========================================>>
+[BATCH_INFO]23:09:46.860 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Started SpringBootBatchApplication in 2.098 seconds (JVM running for 2.746)
+[BATCH_INFO]23:09:46.953 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseStep START ========================================>>
+[BATCH_INFO]23:09:46.964 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseReader START ========================================>>
+[BATCH_INFO]23:09:46.994 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]23:09:46.994 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=10000, COUNTRY=KR, AMOUNT=5000000, ID=1, NAME=김진철}
+[BATCH_INFO]23:09:47.006 [SpringContextShutdownHook] INFO  o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl - HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+[BATCH_INFO]23:09:47.010 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown initiated...
+[BATCH_INFO]23:09:47.011 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown completed.
+[BATCH_INFO]23:34:27.417 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Starting SpringBootBatchApplication using Java 1.8.0_92 on DESKTOP-E8BB6D8 with PID 16940 (C:\Users\kjc\git\javawork\SpringBootBatch\target\classes started by kjc in C:\Users\kjc\git\javawork\SpringBootBatch)
+[BATCH_INFO]23:34:27.419 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - No active profile set, falling back to default profiles: default
+[BATCH_INFO]23:34:28.189 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Starting...
+[BATCH_INFO]23:34:28.269 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Start completed.
+[BATCH_INFO]23:34:28.427 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.32.Final
+[BATCH_INFO]23:34:28.530 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[BATCH_INFO]23:34:28.625 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[BATCH_INFO]23:34:28.805 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[BATCH_INFO]23:34:28.944 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorJob START ========================================>>
+[BATCH_INFO]23:34:28.956 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Job START ========================================>>
+[BATCH_INFO]23:34:28.959 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterJob START ========================================>>
+[BATCH_INFO]23:34:28.972 [restartedMain] INFO  c.k.b.j.c.ChunkCustomWriterJobConfig - ChunkCustomWriterReader START ========================================>>
+[BATCH_INFO]23:34:28.998 [restartedMain] INFO  c.k.b.j.config.ChunkMyBatisJobConfig - ChunkMyBatisJob START ========================================>>
+[BATCH_INFO]23:34:29.001 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseJob START ========================================>>
+[BATCH_INFO]23:34:29.057 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor START ========================================>>
+[BATCH_INFO]23:34:29.057 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor1 START ========================================>>
+[BATCH_INFO]23:34:29.057 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor2 START ========================================>>
+[BATCH_INFO]23:34:29.058 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorWriter START ========================================>>
+[BATCH_INFO]23:34:29.058 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor START ========================================>>
+[BATCH_INFO]23:34:29.058 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor1 START ========================================>>
+[BATCH_INFO]23:34:29.059 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor2 START ========================================>>
+[BATCH_INFO]23:34:29.060 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterWriter START ========================================>>
+[BATCH_INFO]23:34:29.069 [restartedMain] INFO  c.k.b.j.config.ChunkFilterJobConfig - ChunkFilterReader START ========================================>>
+[BATCH_INFO]23:34:29.267 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Started SpringBootBatchApplication in 2.139 seconds (JVM running for 2.79)
+[BATCH_INFO]23:34:29.365 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseStep START ========================================>>
+[BATCH_INFO]23:34:29.377 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseReader START ========================================>>
+[BATCH_INFO]23:34:29.408 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]23:34:29.408 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=10000, COUNTRY=KR, AMOUNT=5000000, ID=1, NAME=김진철}
+[BATCH_INFO]23:34:29.418 [SpringContextShutdownHook] INFO  o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl - HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+[BATCH_INFO]23:34:29.423 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown initiated...
+[BATCH_INFO]23:34:29.423 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown completed.
+[BATCH_INFO]23:35:55.242 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Starting SpringBootBatchApplication using Java 1.8.0_92 on DESKTOP-E8BB6D8 with PID 24644 (C:\Users\kjc\git\javawork\SpringBootBatch\target\classes started by kjc in C:\Users\kjc\git\javawork\SpringBootBatch)
+[BATCH_INFO]23:35:55.244 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - No active profile set, falling back to default profiles: default
+[BATCH_INFO]23:35:56.010 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Starting...
+[BATCH_INFO]23:35:56.090 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Start completed.
+[BATCH_INFO]23:35:56.247 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.32.Final
+[BATCH_INFO]23:35:56.349 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[BATCH_INFO]23:35:56.445 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[BATCH_INFO]23:35:56.597 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[BATCH_INFO]23:35:56.735 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorJob START ========================================>>
+[BATCH_INFO]23:35:56.748 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Job START ========================================>>
+[BATCH_INFO]23:35:56.751 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterJob START ========================================>>
+[BATCH_INFO]23:35:56.764 [restartedMain] INFO  c.k.b.j.c.ChunkCustomWriterJobConfig - ChunkCustomWriterReader START ========================================>>
+[BATCH_INFO]23:35:56.791 [restartedMain] INFO  c.k.b.j.config.ChunkMyBatisJobConfig - ChunkMyBatisJob START ========================================>>
+[BATCH_INFO]23:35:56.793 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseJob START ========================================>>
+[BATCH_INFO]23:35:56.849 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor START ========================================>>
+[BATCH_INFO]23:35:56.849 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor1 START ========================================>>
+[BATCH_INFO]23:35:56.849 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor2 START ========================================>>
+[BATCH_INFO]23:35:56.850 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorWriter START ========================================>>
+[BATCH_INFO]23:35:56.850 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor START ========================================>>
+[BATCH_INFO]23:35:56.850 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor1 START ========================================>>
+[BATCH_INFO]23:35:56.850 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor2 START ========================================>>
+[BATCH_INFO]23:35:56.852 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterWriter START ========================================>>
+[BATCH_INFO]23:35:56.861 [restartedMain] INFO  c.k.b.j.config.ChunkFilterJobConfig - ChunkFilterReader START ========================================>>
+[BATCH_INFO]23:35:57.059 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Started SpringBootBatchApplication in 2.101 seconds (JVM running for 2.745)
+[BATCH_INFO]23:35:57.153 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseStep START ========================================>>
+[BATCH_INFO]23:35:57.165 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseReader START ========================================>>
+[BATCH_INFO]23:35:57.196 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]23:35:57.196 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=10000, COUNTRY=KR, AMOUNT=5000000, ID=1, NAME=김진철}
+[BATCH_INFO]23:35:57.207 [SpringContextShutdownHook] INFO  o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl - HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+[BATCH_INFO]23:35:57.212 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown initiated...
+[BATCH_INFO]23:35:57.212 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown completed.
+[BATCH_INFO]23:38:23.215 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Starting SpringBootBatchApplication using Java 1.8.0_92 on DESKTOP-E8BB6D8 with PID 26900 (C:\Users\kjc\git\javawork\SpringBootBatch\target\classes started by kjc in C:\Users\kjc\git\javawork\SpringBootBatch)
+[BATCH_INFO]23:38:23.218 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - No active profile set, falling back to default profiles: default
+[BATCH_INFO]23:38:24.013 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Starting...
+[BATCH_INFO]23:38:24.092 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Start completed.
+[BATCH_INFO]23:38:24.254 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.32.Final
+[BATCH_INFO]23:38:24.354 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[BATCH_INFO]23:38:24.447 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[BATCH_INFO]23:38:24.633 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[BATCH_INFO]23:38:24.777 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorJob START ========================================>>
+[BATCH_INFO]23:38:24.791 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Job START ========================================>>
+[BATCH_INFO]23:38:24.794 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterJob START ========================================>>
+[BATCH_INFO]23:38:24.808 [restartedMain] INFO  c.k.b.j.c.ChunkCustomWriterJobConfig - ChunkCustomWriterReader START ========================================>>
+[BATCH_INFO]23:38:24.838 [restartedMain] INFO  c.k.b.j.config.ChunkMyBatisJobConfig - ChunkMyBatisJob START ========================================>>
+[BATCH_INFO]23:38:24.868 [restartedMain] INFO  o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl - HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+[BATCH_INFO]23:38:25.090 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown initiated...
+[BATCH_INFO]23:38:25.091 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown completed.
+[BATCH_INFO]23:43:07.963 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Starting SpringBootBatchApplication using Java 1.8.0_92 on DESKTOP-E8BB6D8 with PID 6792 (C:\Users\kjc\git\javawork\SpringBootBatch\target\classes started by kjc in C:\Users\kjc\git\javawork\SpringBootBatch)
+[BATCH_INFO]23:43:07.965 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - No active profile set, falling back to default profiles: default
+[BATCH_INFO]23:43:08.764 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Starting...
+[BATCH_INFO]23:43:08.845 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Start completed.
+[BATCH_INFO]23:43:09.006 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.32.Final
+[BATCH_INFO]23:43:09.107 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[BATCH_INFO]23:43:09.200 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[BATCH_INFO]23:43:09.369 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[BATCH_INFO]23:43:09.512 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorJob START ========================================>>
+[BATCH_INFO]23:43:09.526 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Job START ========================================>>
+[BATCH_INFO]23:43:09.528 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterJob START ========================================>>
+[BATCH_INFO]23:43:09.542 [restartedMain] INFO  c.k.b.j.c.ChunkCustomWriterJobConfig - ChunkCustomWriterReader START ========================================>>
+[BATCH_INFO]23:43:09.570 [restartedMain] INFO  c.k.b.j.config.ChunkMyBatisJobConfig - ChunkMyBatisJob START ========================================>>
+[BATCH_INFO]23:43:09.600 [restartedMain] INFO  o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl - HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+[BATCH_INFO]23:43:09.820 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown initiated...
+[BATCH_INFO]23:43:09.821 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown completed.
+[BATCH_INFO]23:43:42.814 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Starting SpringBootBatchApplication using Java 1.8.0_92 on DESKTOP-E8BB6D8 with PID 20308 (C:\Users\kjc\git\javawork\SpringBootBatch\target\classes started by kjc in C:\Users\kjc\git\javawork\SpringBootBatch)
+[BATCH_INFO]23:43:42.816 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - No active profile set, falling back to default profiles: default
+[BATCH_INFO]23:43:43.611 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Starting...
+[BATCH_INFO]23:43:43.688 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Start completed.
+[BATCH_INFO]23:43:43.850 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.32.Final
+[BATCH_INFO]23:43:43.949 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[BATCH_INFO]23:43:44.040 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[BATCH_INFO]23:43:44.216 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[BATCH_INFO]23:43:44.360 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorJob START ========================================>>
+[BATCH_INFO]23:43:44.373 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Job START ========================================>>
+[BATCH_INFO]23:43:44.375 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterJob START ========================================>>
+[BATCH_INFO]23:43:44.389 [restartedMain] INFO  c.k.b.j.c.ChunkCustomWriterJobConfig - ChunkCustomWriterReader START ========================================>>
+[BATCH_INFO]23:43:44.419 [restartedMain] INFO  c.k.b.j.config.ChunkMyBatisJobConfig - ChunkMyBatisJob START ========================================>>
+[BATCH_INFO]23:43:44.449 [restartedMain] INFO  o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl - HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+[BATCH_INFO]23:43:44.666 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown initiated...
+[BATCH_INFO]23:43:44.667 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown completed.
+[BATCH_INFO]23:50:04.487 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Starting SpringBootBatchApplication using Java 1.8.0_92 on DESKTOP-E8BB6D8 with PID 13180 (C:\Users\kjc\git\javawork\SpringBootBatch\target\classes started by kjc in C:\Users\kjc\git\javawork\SpringBootBatch)
+[BATCH_INFO]23:50:04.489 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - No active profile set, falling back to default profiles: default
+[BATCH_INFO]23:50:05.289 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Starting...
+[BATCH_INFO]23:50:05.371 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Start completed.
+[BATCH_INFO]23:50:05.538 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.32.Final
+[BATCH_INFO]23:50:05.644 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[BATCH_INFO]23:50:05.742 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[BATCH_INFO]23:50:05.898 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[BATCH_INFO]23:50:06.041 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorJob START ========================================>>
+[BATCH_INFO]23:50:06.055 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Job START ========================================>>
+[BATCH_INFO]23:50:06.057 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterJob START ========================================>>
+[BATCH_INFO]23:50:06.072 [restartedMain] INFO  c.k.b.j.c.ChunkCustomWriterJobConfig - ChunkCustomWriterReader START ========================================>>
+[BATCH_INFO]23:50:06.101 [restartedMain] INFO  c.k.b.j.config.ChunkMyBatisJobConfig - ChunkMyBatisJob START ========================================>>
+[BATCH_INFO]23:50:06.118 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseJob START ========================================>>
+[BATCH_INFO]23:50:06.169 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor START ========================================>>
+[BATCH_INFO]23:50:06.170 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor1 START ========================================>>
+[BATCH_INFO]23:50:06.170 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor2 START ========================================>>
+[BATCH_INFO]23:50:06.170 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorWriter START ========================================>>
+[BATCH_INFO]23:50:06.171 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor START ========================================>>
+[BATCH_INFO]23:50:06.171 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor1 START ========================================>>
+[BATCH_INFO]23:50:06.171 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor2 START ========================================>>
+[BATCH_INFO]23:50:06.173 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterWriter START ========================================>>
+[BATCH_INFO]23:50:06.181 [restartedMain] INFO  c.k.b.j.config.ChunkFilterJobConfig - ChunkFilterReader START ========================================>>
+[BATCH_INFO]23:50:06.396 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Started SpringBootBatchApplication in 2.198 seconds (JVM running for 2.851)
+[BATCH_INFO]23:50:06.488 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseStep START ========================================>>
+[BATCH_INFO]23:50:06.499 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseReader START ========================================>>
+[BATCH_INFO]23:50:06.530 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]23:50:06.530 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=10000, COUNTRY=KR, AMOUNT=5000000, ID=1, NAME=김진철}
+[BATCH_INFO]23:50:06.554 [SpringContextShutdownHook] INFO  o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl - HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+[BATCH_INFO]23:50:06.558 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown initiated...
+[BATCH_INFO]23:50:06.559 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown completed.
+[BATCH_INFO]23:51:08.196 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Starting SpringBootBatchApplication using Java 1.8.0_92 on DESKTOP-E8BB6D8 with PID 11324 (C:\Users\kjc\git\javawork\SpringBootBatch\target\classes started by kjc in C:\Users\kjc\git\javawork\SpringBootBatch)
+[BATCH_INFO]23:51:08.199 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - No active profile set, falling back to default profiles: default
+[BATCH_INFO]23:51:08.989 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Starting...
+[BATCH_INFO]23:51:09.068 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Start completed.
+[BATCH_INFO]23:51:09.224 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.32.Final
+[BATCH_INFO]23:51:09.326 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[BATCH_INFO]23:51:09.420 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[BATCH_INFO]23:51:09.574 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[BATCH_INFO]23:51:09.716 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorJob START ========================================>>
+[BATCH_INFO]23:51:09.729 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Job START ========================================>>
+[BATCH_INFO]23:51:09.732 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterJob START ========================================>>
+[BATCH_INFO]23:51:09.746 [restartedMain] INFO  c.k.b.j.c.ChunkCustomWriterJobConfig - ChunkCustomWriterReader START ========================================>>
+[BATCH_INFO]23:51:09.774 [restartedMain] INFO  c.k.b.j.config.ChunkMyBatisJobConfig - ChunkMyBatisJob START ========================================>>
+[BATCH_INFO]23:51:09.790 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseJob START ========================================>>
+[BATCH_INFO]23:51:09.843 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor START ========================================>>
+[BATCH_INFO]23:51:09.843 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor1 START ========================================>>
+[BATCH_INFO]23:51:09.843 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor2 START ========================================>>
+[BATCH_INFO]23:51:09.844 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorWriter START ========================================>>
+[BATCH_INFO]23:51:09.845 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor START ========================================>>
+[BATCH_INFO]23:51:09.845 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor1 START ========================================>>
+[BATCH_INFO]23:51:09.845 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor2 START ========================================>>
+[BATCH_INFO]23:51:09.846 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterWriter START ========================================>>
+[BATCH_INFO]23:51:09.856 [restartedMain] INFO  c.k.b.j.config.ChunkFilterJobConfig - ChunkFilterReader START ========================================>>
+[BATCH_INFO]23:51:10.072 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Started SpringBootBatchApplication in 2.163 seconds (JVM running for 2.805)
+[BATCH_INFO]23:51:10.161 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseStep START ========================================>>
+[BATCH_INFO]23:51:10.172 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseReader START ========================================>>
+[BATCH_INFO]23:51:10.210 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]23:51:10.210 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=10000, COUNTRY=KR, AMOUNT=5000000, ID=1, NAME=김진철}
+[BATCH_INFO]23:51:10.233 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]23:51:10.233 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=20000, COUNTRY=KR, AMOUNT=4000000, ID=2, NAME=박효주}
+[BATCH_INFO]23:51:10.234 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]23:51:10.234 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=30000, COUNTRY=KR, AMOUNT=3000000, ID=3, NAME=김민지}
+[BATCH_INFO]23:51:10.234 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]23:51:10.234 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=40000, COUNTRY=KR, AMOUNT=2000000, ID=4, NAME=김주언}
+[BATCH_INFO]23:51:10.234 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]23:51:10.234 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=50000, COUNTRY=KR, AMOUNT=1000000, ID=5, NAME=김주안}
+[BATCH_INFO]23:51:10.234 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseWriter START ========================================>>
+[BATCH_INFO]23:51:10.247 [SpringContextShutdownHook] INFO  o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl - HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+[BATCH_INFO]23:51:10.251 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown initiated...
+[BATCH_INFO]23:51:10.252 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown completed.
+[BATCH_INFO]23:53:24.721 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Starting SpringBootBatchApplication using Java 1.8.0_92 on DESKTOP-E8BB6D8 with PID 9196 (C:\Users\kjc\git\javawork\SpringBootBatch\target\classes started by kjc in C:\Users\kjc\git\javawork\SpringBootBatch)
+[BATCH_INFO]23:53:24.724 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - No active profile set, falling back to default profiles: default
+[BATCH_INFO]23:53:25.528 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Starting...
+[BATCH_INFO]23:53:25.608 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Start completed.
+[BATCH_INFO]23:53:25.769 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.32.Final
+[BATCH_INFO]23:53:25.870 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[BATCH_INFO]23:53:25.967 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[BATCH_INFO]23:53:26.146 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[BATCH_INFO]23:53:26.287 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorJob START ========================================>>
+[BATCH_INFO]23:53:26.302 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Job START ========================================>>
+[BATCH_INFO]23:53:26.304 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterJob START ========================================>>
+[BATCH_INFO]23:53:26.318 [restartedMain] INFO  c.k.b.j.c.ChunkCustomWriterJobConfig - ChunkCustomWriterReader START ========================================>>
+[BATCH_INFO]23:53:26.346 [restartedMain] INFO  c.k.b.j.config.ChunkMyBatisJobConfig - ChunkMyBatisJob START ========================================>>
+[BATCH_INFO]23:53:26.363 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseJob START ========================================>>
+[BATCH_INFO]23:53:26.415 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor START ========================================>>
+[BATCH_INFO]23:53:26.416 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor1 START ========================================>>
+[BATCH_INFO]23:53:26.416 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor2 START ========================================>>
+[BATCH_INFO]23:53:26.416 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorWriter START ========================================>>
+[BATCH_INFO]23:53:26.417 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor START ========================================>>
+[BATCH_INFO]23:53:26.417 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor1 START ========================================>>
+[BATCH_INFO]23:53:26.417 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor2 START ========================================>>
+[BATCH_INFO]23:53:26.418 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterWriter START ========================================>>
+[BATCH_INFO]23:53:26.427 [restartedMain] INFO  c.k.b.j.config.ChunkFilterJobConfig - ChunkFilterReader START ========================================>>
+[BATCH_INFO]23:53:26.640 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Started SpringBootBatchApplication in 2.208 seconds (JVM running for 2.849)
+[BATCH_INFO]23:53:26.731 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseStep START ========================================>>
+[BATCH_INFO]23:53:26.742 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseReader START ========================================>>
+[BATCH_INFO]23:53:26.779 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]23:53:26.779 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=10000, COUNTRY=KR, AMOUNT=5000000, ID=1, NAME=김진철}
+[BATCH_INFO]23:53:26.805 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]23:53:26.805 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=20000, COUNTRY=KR, AMOUNT=4000000, ID=2, NAME=박효주}
+[BATCH_INFO]23:53:26.806 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]23:53:26.806 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=30000, COUNTRY=KR, AMOUNT=3000000, ID=3, NAME=김민지}
+[BATCH_INFO]23:53:26.806 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]23:53:26.806 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=40000, COUNTRY=KR, AMOUNT=2000000, ID=4, NAME=김주언}
+[BATCH_INFO]23:53:26.806 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]23:53:26.806 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=50000, COUNTRY=KR, AMOUNT=1000000, ID=5, NAME=김주안}
+[BATCH_INFO]23:53:26.806 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseWriter START ========================================>>
+[BATCH_INFO]23:53:26.819 [SpringContextShutdownHook] INFO  o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl - HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+[BATCH_INFO]23:53:26.824 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown initiated...
+[BATCH_INFO]23:53:26.825 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown completed.
+[BATCH_INFO]23:54:20.725 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Starting SpringBootBatchApplication using Java 1.8.0_92 on DESKTOP-E8BB6D8 with PID 33684 (C:\Users\kjc\git\javawork\SpringBootBatch\target\classes started by kjc in C:\Users\kjc\git\javawork\SpringBootBatch)
+[BATCH_INFO]23:54:20.727 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - No active profile set, falling back to default profiles: default
+[BATCH_INFO]23:54:21.524 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Starting...
+[BATCH_INFO]23:54:21.604 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Start completed.
+[BATCH_INFO]23:54:21.763 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.32.Final
+[BATCH_INFO]23:54:21.862 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[BATCH_INFO]23:54:21.955 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[BATCH_INFO]23:54:22.115 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[BATCH_INFO]23:54:22.260 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorJob START ========================================>>
+[BATCH_INFO]23:54:22.273 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Job START ========================================>>
+[BATCH_INFO]23:54:22.276 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterJob START ========================================>>
+[BATCH_INFO]23:54:22.290 [restartedMain] INFO  c.k.b.j.c.ChunkCustomWriterJobConfig - ChunkCustomWriterReader START ========================================>>
+[BATCH_INFO]23:54:22.319 [restartedMain] INFO  c.k.b.j.config.ChunkMyBatisJobConfig - ChunkMyBatisJob START ========================================>>
+[BATCH_INFO]23:54:22.336 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseJob START ========================================>>
+[BATCH_INFO]23:54:22.387 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor START ========================================>>
+[BATCH_INFO]23:54:22.387 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor1 START ========================================>>
+[BATCH_INFO]23:54:22.387 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor2 START ========================================>>
+[BATCH_INFO]23:54:22.387 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorWriter START ========================================>>
+[BATCH_INFO]23:54:22.388 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor START ========================================>>
+[BATCH_INFO]23:54:22.388 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor1 START ========================================>>
+[BATCH_INFO]23:54:22.388 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor2 START ========================================>>
+[BATCH_INFO]23:54:22.390 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterWriter START ========================================>>
+[BATCH_INFO]23:54:22.399 [restartedMain] INFO  c.k.b.j.config.ChunkFilterJobConfig - ChunkFilterReader START ========================================>>
+[BATCH_INFO]23:54:22.614 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Started SpringBootBatchApplication in 2.178 seconds (JVM running for 2.821)
+[BATCH_INFO]23:54:22.704 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseStep START ========================================>>
+[BATCH_INFO]23:54:22.716 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseReader START ========================================>>
+[BATCH_INFO]23:54:22.746 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]23:54:22.746 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=10000, COUNTRY=KR, AMOUNT=5000000, ID=1, NAME=김진철}
+[BATCH_INFO]23:54:22.778 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]23:54:22.778 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=20000, COUNTRY=KR, AMOUNT=4000000, ID=2, NAME=박효주}
+[BATCH_INFO]23:54:22.779 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]23:54:22.779 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=30000, COUNTRY=KR, AMOUNT=3000000, ID=3, NAME=김민지}
+[BATCH_INFO]23:54:22.779 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]23:54:22.779 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=40000, COUNTRY=KR, AMOUNT=2000000, ID=4, NAME=김주언}
+[BATCH_INFO]23:54:22.779 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]23:54:22.779 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=50000, COUNTRY=KR, AMOUNT=1000000, ID=5, NAME=김주안}
+[BATCH_INFO]23:54:22.779 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseWriter START ========================================>>
+[BATCH_INFO]23:54:22.792 [SpringContextShutdownHook] INFO  o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl - HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+[BATCH_INFO]23:54:22.796 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown initiated...
+[BATCH_INFO]23:54:22.797 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown completed.
+[BATCH_INFO]23:55:03.503 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Starting SpringBootBatchApplication using Java 1.8.0_92 on DESKTOP-E8BB6D8 with PID 24156 (C:\Users\kjc\git\javawork\SpringBootBatch\target\classes started by kjc in C:\Users\kjc\git\javawork\SpringBootBatch)
+[BATCH_INFO]23:55:03.505 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - No active profile set, falling back to default profiles: default
+[BATCH_INFO]23:55:04.298 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Starting...
+[BATCH_INFO]23:55:04.380 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Start completed.
+[BATCH_INFO]23:55:04.536 [restartedMain] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 5.4.32.Final
+[BATCH_INFO]23:55:04.639 [restartedMain] INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[BATCH_INFO]23:55:04.732 [restartedMain] INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+[BATCH_INFO]23:55:04.885 [restartedMain] INFO  o.h.e.t.j.p.i.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[BATCH_INFO]23:55:05.025 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorJob START ========================================>>
+[BATCH_INFO]23:55:05.039 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Job START ========================================>>
+[BATCH_INFO]23:55:05.041 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterJob START ========================================>>
+[BATCH_INFO]23:55:05.055 [restartedMain] INFO  c.k.b.j.c.ChunkCustomWriterJobConfig - ChunkCustomWriterReader START ========================================>>
+[BATCH_INFO]23:55:05.086 [restartedMain] INFO  c.k.b.j.config.ChunkMyBatisJobConfig - ChunkMyBatisJob START ========================================>>
+[BATCH_INFO]23:55:05.102 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseJob START ========================================>>
+[BATCH_INFO]23:55:05.154 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor START ========================================>>
+[BATCH_INFO]23:55:05.155 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor1 START ========================================>>
+[BATCH_INFO]23:55:05.155 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorProcessor2 START ========================================>>
+[BATCH_INFO]23:55:05.155 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig - ChunkCompositeProcessorWriter START ========================================>>
+[BATCH_INFO]23:55:05.156 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor START ========================================>>
+[BATCH_INFO]23:55:05.156 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor1 START ========================================>>
+[BATCH_INFO]23:55:05.156 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeProcessorJobConfig2 - ChunkCompositeProcessor2Processor2 START ========================================>>
+[BATCH_INFO]23:55:05.158 [restartedMain] INFO  c.k.b.j.c.ChunkCompositeWriterJobConfig - ChunkCompositeWriterWriter START ========================================>>
+[BATCH_INFO]23:55:05.167 [restartedMain] INFO  c.k.b.j.config.ChunkFilterJobConfig - ChunkFilterReader START ========================================>>
+[BATCH_INFO]23:55:05.378 [restartedMain] INFO  c.k.b.m.SpringBootBatchApplication - Started SpringBootBatchApplication in 2.163 seconds (JVM running for 2.81)
+[BATCH_INFO]23:55:05.469 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseStep START ========================================>>
+[BATCH_INFO]23:55:05.480 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseReader START ========================================>>
+[BATCH_INFO]23:55:05.518 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]23:55:05.518 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=10000, COUNTRY=KR, AMOUNT=5000000, ID=1, NAME=김진철}
+[BATCH_INFO]23:55:05.541 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]23:55:05.541 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=20000, COUNTRY=KR, AMOUNT=4000000, ID=2, NAME=박효주}
+[BATCH_INFO]23:55:05.542 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]23:55:05.542 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=30000, COUNTRY=KR, AMOUNT=3000000, ID=3, NAME=김민지}
+[BATCH_INFO]23:55:05.542 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]23:55:05.542 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=40000, COUNTRY=KR, AMOUNT=2000000, ID=4, NAME=김주언}
+[BATCH_INFO]23:55:05.542 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseProcessor START ========================================>>
+[BATCH_INFO]23:55:05.542 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - {POPULATION=50000, COUNTRY=KR, AMOUNT=1000000, ID=5, NAME=김주안}
+[BATCH_INFO]23:55:05.543 [restartedMain] INFO  c.k.b.job.config.JsonParseJobConfig - JsonParseWriter START ========================================>>
+[BATCH_INFO]23:55:05.555 [SpringContextShutdownHook] INFO  o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl - HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+[BATCH_INFO]23:55:05.560 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown initiated...
+[BATCH_INFO]23:55:05.561 [SpringContextShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - LOCAL-CP - Shutdown completed.

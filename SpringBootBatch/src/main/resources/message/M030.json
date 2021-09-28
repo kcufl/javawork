@@ -1,0 +1,59 @@
+{
+  "id": "M030",
+  "input": {
+            "fields": [
+            {
+              "name": "Occupation",
+              "type": "String",
+              "length": 20,
+              "padding": " ",
+              "alignment":"left",
+              "default":"test"
+            },
+            {
+              "name": "Age",
+              "type": "Integer",
+              "length": 2,
+              "padding": "0",
+              "alignment":"left" ,
+              "default":"0"
+            },
+            {
+              "name": "Gender",
+              "type": "String",
+              "length": 6,
+              "padding": " ",
+              "alignment":"right",
+              "default":"male"
+            }
+            ]
+    },
+    "output":{
+            "fields": [
+            {
+              "name": "Occupation",
+              "type": "String",
+              "length": 20,
+              "padding": " ",
+              "alignment":"left",
+              "default":"test"
+            },
+            {
+              "name": "Age",
+              "type": "Integer",
+              "length": 2,
+              "padding": "0",
+              "alignment":"left" ,
+              "default":"0"
+            },
+            {
+              "name": "Gender",
+              "type": "String",
+              "length": 6,
+              "padding": " ",
+              "alignment":"right",
+              "default":"male"
+            }
+            ]
+    }
+}

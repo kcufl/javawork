@@ -1,4 +1,4 @@
-package com.batch.main;
+package com.kcufl.batch.main;
 
 import java.util.Arrays;
 import java.util.Collection;
@@ -23,11 +23,13 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.ComponentScan;
 import org.springframework.util.Assert;
 import org.springframework.util.StringUtils;
 
-@SpringBootApplication(scanBasePackages = "com.batch.job.*")
-@MapperScan(basePackages = "com.batch.job*")
+@SpringBootApplication(scanBasePackages = "com.kcufl.batch.job.*")
+@MapperScan(basePackages = "com.kcufl.batch.job*")
+@ComponentScan(basePackages = "com.kcufl")
 public class SpringBootBatchApplication implements CommandLineRunner {
 
 	private final static Logger logger = LoggerFactory.getLogger(SpringBootBatchApplication.class);
